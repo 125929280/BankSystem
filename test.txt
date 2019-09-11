@@ -1,0 +1,8 @@
+name:zzz
+code:123
+card:1
+type:普通卡
+money:200.0
+card:2
+type:信用卡
+money:-1000.0
